@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Giovanna Braga
+# 👩🏻‍💻 Hello Word!
 
-**`Jovem Aprendiz`**
-
-Me chamo Giovanna, tenho 19 anos e sou natural de SP. Atualmente, sou formanda em Análise e Desenvolvimento de Sistemas pela UNICSUL, com previsão de conclusão em Dezembro de 2026. Sou apaixonada e curiosa por tecnologia, buscando sempre por aprendizado. Através do meu linkedin "[Giovanna Braga](https://www.linkedin.com/in/giovanna-franca-braga/)" você pode saber um pouco mais sobre minhas experiências profissionais.
+Sou a Gi, tenho 19 anos e sou apaixonada por tecnologia e movida pela curiosidade de aprender sempre mais. Sou formanda em **Análise e Desenvolvimento de Sistemas** pela Universidade Cruzeiro do Sul, com previsão de conclusão em **Dezembro de 2026**. <br>
+Trabalho como jovem aprendiz no **Suporte de TI** na **WPP Group**, a maior empresa de publicidade e comunicação do mundo. <br>
+Atualmente, estou direcionando meus estudos e carreira para **Análise de Dados**.
 
 ---
 ### 🤖 Linguagens e Tecnologias
@@ -19,8 +19,8 @@ Me chamo Giovanna, tenho 19 anos e sou natural de SP. Atualmente, sou formanda e
 
 <img
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
@@ -28,8 +28,8 @@ Me chamo Giovanna, tenho 19 anos e sou natural de SP. Atualmente, sou formanda e
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Excel" 
+    title="Excel"
     width="30px" 
     style="padding-right: 10px;"
     src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" 
@@ -37,8 +37,8 @@ Me chamo Giovanna, tenho 19 anos e sou natural de SP. Atualmente, sou formanda e
 
 <img
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Power BI" 
+    title="Power BI"
     width="30px" 
     style="padding-right: 10px;"
     src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"
