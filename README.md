@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hello Word!
+# 👩🏻‍💻 Hello World!
 
 Sou a Gi, tenho 19 anos e sou apaixonada por tecnologia e movida pela curiosidade de aprender sempre mais. Sou formanda em **Análise e Desenvolvimento de Sistemas** pela Universidade Cruzeiro do Sul, com previsão de conclusão em **Dezembro de 2026**. <br>
 Trabalho como jovem aprendiz no **Suporte de TI** na **WPP Group**, a maior empresa de publicidade e comunicação do mundo. <br>
